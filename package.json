@@ -11,7 +11,7 @@
     "author": "Julio Ramos",
     "license": "ISC",
     "type": "module",
-    "description": "API para gestion de un supermercado, los usurios y los administradores",
+    "description": "API para gestion de un supermercado, los usuarios y los administradores",
     "dependencies": {
       "argon2": "^0.41.1",
       "bcrypt": "^5.1.1",
